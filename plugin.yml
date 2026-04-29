@@ -1,0 +1,7 @@
+plugins:
+  - name: MyPlugin
+    version: 1.0
+    main: com.example.MyPlugin
+    api-version: "1.21"
+    description: "A simple Minecraft plugin"
+    author: "Your Name"
